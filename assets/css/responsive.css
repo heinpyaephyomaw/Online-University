@@ -1,0 +1,55 @@
+
+@media only screen and (max-width: 430px){
+    .nav-bar{
+        right: 0 !important;
+        left: 0 !important;
+    }
+    .navbar{
+
+    }
+
+    .navbar-collapse{
+        margin-top: 10px;
+        padding: 10px 10px 0 10px;
+        border: 1px solid #ffffff;
+        background-color: rgba(24, 24, 24, 0.87);
+    }
+
+    .navbar-nav .nav-item{
+        padding: 5px 10px;
+        background-color: rgb(255, 255, 255);
+        margin-bottom: 10px;
+    }
+    .nav-item .nav-link{
+        color: #000000 !important;
+    }
+
+    .navbar-toggler{
+        padding:5px 10px;
+    }
+    .menu-icon{
+        font-size: 35px;
+    }
+   .swiper-slide{
+       padding: 0 10px;
+   }
+
+   .education-img{
+       margin-right: 0 !important;
+       margin-bottom: 3rem;
+   }
+   .education-text{
+       margin-left: 0 !important;
+   }
+   .feature-card{
+       padding: 20px 40px !important;
+   }
+    .course-card{
+        margin-bottom: 2rem;
+    }
+
+
+
+
+
+}
